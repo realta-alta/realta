@@ -6,6 +6,9 @@
 </h2>
 I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer Science and Engineering, with a strong focus on Computer Graphics and Multimedia. This specialization allowed me to blend creativity with technology — something I’m truly passionate about.I love building digital experiences that are both functional and visually engaging. From designing interactive websites to experimenting with 2D/3D visuals and games, I enjoy bringing ideas to life through code and design.
 <h3 align="Left">
+
+  <img align="right" alt="Coding Bear" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 🌱 Currently Learning
 
 - React.js– Building dynamic user interfaces  
@@ -48,7 +51,7 @@ Languages
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
-<img align="right" alt="Coding Bear" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh5amZid3gxOWd4NzViMnFmd3k5NzFqZWg1anlka2dhbjNzaGxhbCZlcD12MV8zNDVnMXBpYXY0b2p4cTg2M3I1Y2F1aGo3MCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
+
 
 
 
