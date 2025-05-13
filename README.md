@@ -8,11 +8,10 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
 <h3 align="Left">
 🌱 Currently Learning
 
-| Technology            | Focus Area                                      |
+| Technology            | Focus Area                                       |
 |-----------------------|--------------------------------------------------|
-| **React.js**          | Building dynamic user interfaces                 |
-| **Advanced CSS**      | Flexbox, Grid, and Animations                    |
-| **Git & GitHub**      | Collaboration and version control workflows      |
+| React.js              | Building dynamic user interfaces                 |
+| Advanced CSS          | Flexbox, Grid, and Animations                    |
 
 
                                          
