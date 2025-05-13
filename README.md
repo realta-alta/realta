@@ -2,7 +2,12 @@
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span>
 </h1>
 <h2 align="Left">
-<img align="right" alt="Cute Bear" width="250" src="https://i.pinimg.com/736x/98/b1/86/98b1861812e9eed60b1a65e1bc67826b.jpg" />
+<p align="right">
+  <img src="https://i.pinimg.com/736x/98/b1/86/98b1861812e9eed60b1a65e1bc67826b.jpg"
+       alt="Cute Bear"
+       width="220"
+       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transform: rotate(2deg);" />
+</p>
 
 
 
