@@ -2,7 +2,8 @@
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span>
 </h1>
 <h2 align="Left">
- <img align="right" alt="Coding Bear" width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="Cute Bear" width="250" src="https://i.pinimg.com/originals/15/e7/9e/15e79e442be7b0b3a4fabcac06285b15.gif" />
+
 
   About Me <span style="color:#e91e63;"></span>
 </h2>
