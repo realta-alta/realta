@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! I'm <span style="color:#e91e63;">Realta Krasniqi</span>
+  Hi,! I'm <span style="color:#e91e63;">Realta Krasniqi</span>
 </h1>
 <h3 align="center"> Web Developer| WordPress| HTML| CSS| Unity |Creative Coder</h3> 
                                                    
