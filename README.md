@@ -48,6 +48,7 @@ Languages
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+<img align="right" alt="Coding Bear" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh5amZid3gxOWd4NzViMnFmd3k5NzFqZWg1anlka2dhbjNzaGxhbCZlcD12MV8zNDVnMXBpYXY0b2p4cTg2M3I1Y2F1aGo3MCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
 
 
 
