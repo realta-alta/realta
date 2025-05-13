@@ -2,13 +2,13 @@
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span>
 </h1>
 <h2 align="Left">
+  <img align="right" alt="Coding Bear" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
   About Me <span style="color:#e91e63;"></span>
 </h2>
 I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer Science and Engineering, with a strong focus on Computer Graphics and Multimedia. This specialization allowed me to blend creativity with technology — something I’m truly passionate about.I love building digital experiences that are both functional and visually engaging. From designing interactive websites to experimenting with 2D/3D visuals and games, I enjoy bringing ideas to life through code and design.
 <h3 align="Left">
-
-  <img align="right" alt="Coding Bear" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+  
 🌱 Currently Learning
 
 - React.js– Building dynamic user interfaces  
