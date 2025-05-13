@@ -8,7 +8,8 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
 <h3 align="Left">
   I'm currently learning ..... <span style="color:#e91e63;"></span>
 </h3>
-
+React
+UI/UX
 
                                                   
 
