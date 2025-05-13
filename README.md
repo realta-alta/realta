@@ -11,10 +11,11 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
 <h2 align="Left">
   React <span style="color:#e91e63;"></span>
 </h2>
+<small>
 <h2 align="Left">
   UI/UX <span style="color:#e91e63;"></span>
 </h2>
-
+</small>
                                                   
 
 
