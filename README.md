@@ -2,7 +2,7 @@
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span>
 </h1>
 <h2 align="Left">
-  <img align="right" alt="https://pngtree.com/freepng/cartoon-cute-little-bear-play-computer_3599072.html" />
+ <img align="right" alt="Coding Bear" width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
   About Me <span style="color:#e91e63;"></span>
 </h2>
