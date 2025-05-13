@@ -2,7 +2,7 @@
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span>
 </h1>
 <h2 align="Left">
-  <img align="right" alt="Coding Bear" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="https://pngtree.com/freepng/cartoon-cute-little-bear-play-computer_3599072.html" />
 
   About Me <span style="color:#e91e63;"></span>
 </h2>
@@ -22,6 +22,7 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
 
    Outside Tech
   
+
    I love designing in **Figma**
    Creating social media content  
     Exploring and learning new tools  
