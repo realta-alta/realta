@@ -13,10 +13,12 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
 
 
 🤝 I’m open to...
+  
   Collaborating on open source projects  
   ❓ Ask me anything – I'm happy to help!  
 
 🎨 Outside Tech
+  
    I love designing in **Figma**
    Creating social media content  
     Exploring and learning new tools  
