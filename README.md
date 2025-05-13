@@ -1,32 +1,9 @@
-<link rel="stylesheet" href="styles.css">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Realta's Portfolio</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Këtu lidhet stili -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> <!-- Font Awesome -->
-</head>
-<body>
+<h1 align="center">
+  Hey there! I'm <span style="color:#e91e63;">Realta Krasniqi</span>
+</h1>
+<h3 align="center"> Web Developer |Unity|Creative Coder</h3>
 
-    <!-- Seksioni i Hyrjes -->
-    <section class="intro">
-        <h1>Hi, I'm Realta Krasniqi</h1>
-        <p>🌐 **Web Developer** | 💻 **WordPress, HTML, CSS** | 🎮 **Unity Developer**</p>
-        <p>Krijoj faqe web dhe aplikacione që lidhen me përdoruesit përmes dizajnit të pastër dhe performancës së lartë. Shiko projektet e mia dhe bashkëpunoni për të sjellë idetë tuaja në jetë! 🚀</p>
-    </section>
 
-    <!-- Seksioni me Lidhjet -->
-    <section class="links">
-        <p>📂 Discover My Work:</p>
-        <a href="https://github.com/realta" class="link-btn"><i class="fab fa-github"></i> GitHub</a>
-        <a href="https://yourportfolio.com" class="link-btn"><i class="fas fa-briefcase"></i> Portfolio</a>
-        <a href="mailto:realta@example.com" class="link-btn"><i class="fas fa-envelope"></i> Contact Me</a>
-    </section>
-
-</body>
-</html>
 
 # Hello there! I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer Science and Engineering, with a strong focus on Computer Graphics and Multimedia. This specialization allowed me to blend creativity with technology — something I’m truly passionate about.I love building digital experiences that are both functional and visually engaging. From designing interactive websites to experimenting with 2D/3D visuals and games, I enjoy bringing ideas to life through code and design.
  ## Code Stack  - Design
