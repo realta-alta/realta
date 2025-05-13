@@ -2,6 +2,7 @@ Realta Krasniqi
 
 Web Developer: WordPress, HTML, CSS ,Unity 
  Explore My Projects on GitHub |  View My Portfolio | 📬 Contact Me
+
 # Hello there! I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer Science and Engineering, with a strong focus on Computer Graphics and Multimedia. This specialization allowed me to blend creativity with technology — something I’m truly passionate about.I love building digital experiences that are both functional and visually engaging. From designing interactive websites to experimenting with 2D/3D visuals and games, I enjoy bringing ideas to life through code and design.
  ## Code Stack  - Design
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
