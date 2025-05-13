@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span>
+  Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> < img align ="right" alt ="https://i.pinimg.com/originals/22/05/17/220517e0fbde4785b14c8cc63afd2429.gif"/>
 </h1>
 <h2 align="Left">
 <img align="right" alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
@@ -27,7 +27,7 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
     Creating social media content  
     Exploring and learning new tools  
 
- 📬 Reach Me At
+ Reach Me At
 
 Email: [realtakrasniqi009@gmail.com](mailto:realtakrasniqi009@gmail.com)
 
