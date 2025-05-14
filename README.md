@@ -11,6 +11,7 @@ I'm Realta Krasniqi.I recently graduated with a Bachelor’s degree in Computer 
 <h3 align="Left">
 
   🤝 I’m Open To...
+
 Collaborating on open source projects
 
 Helping others – Ask me anything!
@@ -23,6 +24,7 @@ Creating social media content
 Exploring & learning new creative tools
 
 📬 Reach Me At
+
 ✉️ realtakrasniqi009@gmai.com
 
     My Skills Include
