@@ -17,9 +17,8 @@ Collaborating on open source projects
 Helping others – Ask me anything!
 
 🎨 Outside Tech
-Designing in Figma
 
-Creating social media content
+Designing in Figma
 
 Exploring & learning new creative tools
 
