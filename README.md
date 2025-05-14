@@ -1,3 +1,5 @@
+<img align="right" alt="My Photo" width="200" src="![FullSizeRender 2](https://github.com/user-attachments/assets/195c5fdd-1674-43ea-bea3-4c048297bedb)
+" />
 <h1 align="center">
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
 </h1>
