@@ -47,11 +47,16 @@ Languages
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 <div class="project">
-  <h3>🌤️ Weather App</h3>
-  <img src="screenshots/weather-app.png" alt="Weather App Screenshot" style="width:100%; border-radius:10px; margin-top:10px;" />
-  <p>A weather application using JavaScript and OpenWeather API to show live weather updates.</p>
-  <a href="https://github.com/realta/weather-app" target="_blank">🔗 View Code</a>
-</div>
+
+ ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emriyt&show_icons=true&theme=radical" />
+</p>
+
+## 🚀 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emriyt&layout=compact&theme=radical" />
+</p>
 
 
 
