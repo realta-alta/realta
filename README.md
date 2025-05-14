@@ -1,6 +1,7 @@
 <div class="container">
   <div class="left">
-    <img src="link_to_image.jpg" alt="FullSizeRender 2.jpeg" />
+    <img src="link_to_image.jpg" alt="FullSizeRender 2
+" />
   </div>
 <h1 align="center">
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
@@ -56,5 +57,3 @@ Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
-
-
