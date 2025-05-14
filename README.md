@@ -1,3 +1,7 @@
+<div class="container">
+  <div class="left">
+    <img src="link_to_image.jpg" alt="Fotografia ime" />
+  </div>
 <h1 align="center">
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
 </h1>
@@ -48,15 +52,11 @@ Languages
 </p>
 <div class="project">
 
- ## 📊 GitHub Stats
+  📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
 
-## 🚀 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realta-alta&layout=compact&theme=radical" />
-</p>
 
 
 
