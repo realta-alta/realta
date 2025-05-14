@@ -1,6 +1,3 @@
-<img align="left " alt="My Photo" width="200" src="![FullSizeRender 2](https://github.com/user-attachments/assets/a5718ca6-83b6-4ec7-83f1-91e34feded77)
-" />
-
 <h1 align="center">
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
 </h1>
@@ -29,6 +26,7 @@ Exploring & learning new creative tools
 
 ✉️ realtakrasniqi009@gmai.com
 
+---
     My Skills Include
 
 Languages
@@ -39,6 +37,7 @@ Languages
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
+---
  
     Other Tools & Technologies
 
