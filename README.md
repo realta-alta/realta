@@ -1,7 +1,6 @@
 <div class="container">
   <div class="left">
-    <img src="link_to_image.jpg" alt="![FullSizeRender 2](https://github.com/user-attachments/assets/4d6c024b-352c-4ca3-aa7f-923ca1294707)
-" />
+    <img src="link_to_image.jpg" alt="FullSizeRender 2.jpeg" />
   </div>
 <h1 align="center">
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
