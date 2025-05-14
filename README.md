@@ -62,39 +62,36 @@ Languages
   Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
 </h1>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <!-- Left side: Image -->
-  <div style="flex: 1;">
-    <img alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
-  </div>
-
-  <!-- Right side: Text -->
-  <div style="flex: 2; padding-left: 20px;">
-
-  <h2>About Me</h2>
-  <p>
-    I'm Realta Krasniqi. I recently graduated with a Bachelor’s degree in Computer Science and Engineering, 
-    with a strong focus on Computer Graphics and Multimedia. This specialization allowed me to blend creativity with technology — 
-    something I’m truly passionate about. I love building digital experiences that are both functional and visually engaging. 
-    From designing interactive websites to experimenting with 2D/3D visuals and games, I enjoy bringing ideas to life through code and design.
-  </p>
-
-  <h3>🤝 I’m Open To...</h3>
-  <ul>
-    <li>Collaborating on open source projects</li>
-    <li>Helping others – Ask me anything!</li>
-  </ul>
-
-  <h3>🎨 Outside Tech</h3>
-  <ul>
-    <li>Designing in Figma</li>
-    <li>Exploring & learning new creative tools</li>
-  </ul>
-
-  <h3>📬 Reach Me At</h3>
-  <p>✉️ realtakrasniqi009@gmai.com</p>
-  </div>
+<!-- FOTOJA JOTE NË ANËN E MAJTË -->
+<div align="left">
+  <img alt="Realta Krasniqi" width="250" src="LINKU-I-FOTOS" />
 </div>
+
+<h2 align="left">About Me</h2>
+
+<p>
+I'm Realta Krasniqi. I recently graduated with a Bachelor’s degree in Computer Science and Engineering, 
+with a strong focus on Computer Graphics and Multimedia. This specialization allowed me to blend creativity with technology — 
+something I’m truly passionate about. I love building digital experiences that are both functional and visually engaging. 
+From designing interactive websites to experimenting with 2D/3D visuals and games, I enjoy bringing ideas to life through code and design.
+</p>
+
+---
+
+<h3 align="left">🤝 I’m Open To...</h3>
+<ul>
+  <li>Collaborating on open source projects</li>
+  <li>Helping others – Ask me anything!</li>
+</ul>
+
+<h3 align="left">🎨 Outside Tech</h3>
+<ul>
+  <li>Designing in Figma</li>
+  <li>Exploring & learning new creative tools</li>
+</ul>
+
+<h3 align="left">📬 Reach Me At</h3>
+<p>✉️ realtakrasniqi009@gmai.com</p>
 
 ---
 
@@ -123,6 +120,3 @@ Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
-
-
-
