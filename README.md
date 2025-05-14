@@ -47,6 +47,13 @@ Languages
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
+<div style="background-color:#f5f5f5; padding:20px; border-radius:10px;">
+  <h3>📚 Currently Learning</h3>
+  <ul>
+    <li>React.js – Building dynamic UIs</li>
+    <li>Advanced CSS – Flexbox, Grid, Animations</li>
+  </ul>
+</div>
 
 
 
