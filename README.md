@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td width="180">
       <img src="https://github.com/realta-alta/realta/blob/main/FullSizeRender%202.jpeg" width="160" />
     </td>
-    <td style="vertical-align: top;">
+    <td>
 
 
 <h1>Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 👋</h1>
