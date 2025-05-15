@@ -54,3 +54,9 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
 
+✨ Fun Facts About Me
+
+- 🎬 I love animated movies and Pixar-style 3D visuals.  
+- ✈️ I dream of working abroad as a creative developer.  
+- 🍫 I function best with coffee and chocolate.  
+
