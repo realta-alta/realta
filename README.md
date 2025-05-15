@@ -50,7 +50,6 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 📊 GitHub Stats
 
-📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
@@ -59,12 +58,8 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=realta-alta&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realta-alta&layout=compact&theme=radical" />
+
 </p>
-
-
-
-
 
 
 
