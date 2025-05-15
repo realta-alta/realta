@@ -33,6 +33,71 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
+<!-- PROFILI GITHUB -->
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://raw.githubusercontent.com/realta-alta/realta-alta/main/145B90BC.jpeg" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td>
+
+<h1>Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 👋</h1>
+
+🎓 I'm a recent graduate in **Computer Science and Engineering**, with a focus on **Computer Graphics and Multimedia**.  
+🎯 Passionate about combining creativity & technology to craft **engaging digital experiences** – from websites to visual games.  
+💡 I love bringing ideas to life using **code, design, and imagination.**
+
+---
+
+### 🤝 I’m Open To...
+
+- Collaborating on open source or creative coding projects  
+- Helping others – feel free to ask me anything!  
+
+### 🎨 Outside Tech
+
+- Designing with Figma  
+- Learning new creative tools  
+
+### 📬 Reach Me At
+
+✉️ realtakrasniqi009@gmail.com
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 My Skills Include
+
+#### 👩‍💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+#### 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
+</p>
+
+
 ---
 
  📊 GitHub Stats
