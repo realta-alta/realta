@@ -54,3 +54,21 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
 
+<form id="myForm">
+  <label for="name">Emri Mbiemri:</label><br>
+  <input type="text" id="name" name="name" placeholder="Shkruaj emrin dhe mbiemrin"><br><br>
+  <input type="submit" value="Dërgo">
+</form>
+
+<p id="output"></p>
+
+<script>
+  document.getElementById('myForm').addEventListener('submit', function(e) {
+    e.preventDefault(); // parandalon rifreskimin e faqes
+    const name = document.getElementById('name').value;
+    document.getElementById('output').textContent = `Faleminderit, ${name}!`;
+    // Këtu mund ta ruash ose përdorësh emrin sipas nevojës
+  });
+</script>
+
+
