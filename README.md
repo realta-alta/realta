@@ -1,9 +1,12 @@
 <table>
   <tr>
     <td width="170">
-      <img src="https://github.com/realta-alta/realta/blob/main/FullSizeRender%202.jpeg" width="180" style="border-radius: 50%;" />" 
+      <img src="https://github.com/realta-alta/realta/blob/main/FullSizeRender%202.jpeg" width="180" style="border-radius: 50%;" />
     </td>
     <td>
+<p align="left">
+  <img src="https://cdn.discordapp.com/attachments/1152386900403504170/1155652157693481084/realta-profile-rounded.png" width="160" />
+</p>
 
 <h1>Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 👋</h1>
 <img align="right" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" width="120"/>
