@@ -58,5 +58,15 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 - 🎬 I love animated movies and Pixar-style 3D visuals.  
 - ✈️ I dream of working abroad as a creative developer.  
-- 🍫 I function best with coffee and chocolate.  
+- 🍫 I function best with coffee and chocolate.
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=realta-alta&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realta-alta&layout=compact&theme=radical" />
+</p>
+
+
+  
 
