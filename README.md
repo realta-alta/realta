@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span></h1>
-<div align="left">
-  <img alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
-</div>
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <!-- Left side: Image -->
+  <div style="flex: 1;">
+    <img alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
+  </div>
 ---
 
 ✨ About Me
