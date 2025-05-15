@@ -1,9 +1,9 @@
-<table>
-  <tr>
-    <td width="200px">
-      <img src="https://github.com/realta-alta/realta/blob/main/FullSizeRender%202.jpeg" width="180" style="border-radius: 50%;" />
-    </td>
-    <td>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/realta-alta/realta-alta/main/FullSizeRender%202.jpeg" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+</p>
+
+https://github.com/realta-alta/realta/blob/main/FullSizeRender%202.jpeg" width="180" style="border-radius: 50%;" />
+  
 <h1>Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 👋</h1>
 <img align="right" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" width="120"/>
 
