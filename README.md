@@ -1,23 +1,3 @@
-<h1 align="center">Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span></h1>
-
----
-
-✨ About Me
-
-I'm a Computer Science and Engineering graduate, specialized in Computer Graphics and Multimedia.This specialization allowed me to blend creativity with technology — something I’m truly passionate about.I love building digital experiences that are both functional and visually engaging. From designing interactive websites to experimenting with 2D/3D visuals and games.I enjoy building beautiful, interactive, and meaningful digital experiences — from web designs to small games.
-
-
-- 🌱 Currently learning: React ,Blender, Three.js
-- 🤝 Open to: Collaborations & creative coding projects
-- 🎨 Outside tech: Figma, digital art, design tools
-- 📬 Contact: realtakrasniqi009@gmail.com
-
----
-
-🛠 My Skills Include
-
-
-
 <table>
   <tr>
     <td width="35%">
