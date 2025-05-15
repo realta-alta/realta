@@ -53,16 +53,18 @@ Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
-<div align="left">
-  <img alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
-</div>
+
 <!-- PROFILI GITHUB -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/realta-alta/realta-alta/main/145B90BC.jpeg" width="150" style="border-radius: 50%;" />
 </div>
 
+
 <h1 align="center">Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span></h1>
+<div align="left">
+  <img alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
+</div>
 
 ---
 
