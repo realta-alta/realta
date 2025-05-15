@@ -4,7 +4,6 @@
   Hi,I'm <span style="color:#e91e63;">Realta Krasniqi</span> 
 </h1>
 <h2 align="Left">
-<img align="right" alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
 
 
   About Me <span style="color:#e91e63;"></span>
@@ -67,7 +66,8 @@ Languages
 ✨ About Me
 
 I'm a Computer Science and Engineering graduate, specialized in Computer Graphics and Multimedia.This specialization allowed me to blend creativity with technology — something I’m truly passionate about.I love building digital experiences that are both functional and visually engaging. From designing interactive websites to experimenting with 2D/3D visuals and games.I enjoy building beautiful, interactive, and meaningful digital experiences — from web designs to small games.
-
+<img alt="Cute Bear Coding" width="250" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" />
+</div>
 - 🌱 Currently learning: **React**, **Blender**, **Three.js**
 - 🤝 Open to: Collaborations & creative coding projects
 - 🎨 Outside tech: Figma, digital art, design tools
