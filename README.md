@@ -44,31 +44,61 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Social Media</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 50px;
+      background-color: #f7f7f7;
+    }
 
-<style>
-  .social-icons a {
-    margin: 0 10px;
-    display: inline-block;
-  }
-  .social-icons img {
-    width: 40px;
-    height: 40px;
-    transition: transform 0.3s;
-  }
-  .social-icons img:hover {
-    transform: scale(1.2);
-  }
-</style>
+    h2 {
+      color: #333;
+      margin-bottom: 20px;
+    }
 
-<div class="social-icons">
-  <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-  </a>
-</div>
+    .social-icons a {
+      margin: 0 15px;
+      display: inline-block;
+      text-decoration: none;
+    }
+
+    .social-icons img {
+      width: 50px;
+      height: 50px;
+      transition: transform 0.3s ease;
+    }
+
+    .social-icons img:hover {
+      transform: scale(1.2);
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Check out my social media</h2>
+
+  <div class="social-icons">
+    <a href="https://facebook.com/yourprofile" target="_blank">
+      <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
+    </a>
+    <a href="https://instagram.com/yourprofile" target="_blank">
+      <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
+    </a>
+    <a href="https://twitter.com/yourprofile" target="_blank">
+      <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
+    </a>
+  </div>
+
+</body>
+</html>
+
+
 
 
 
