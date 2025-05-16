@@ -31,7 +31,6 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
  Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -64,6 +63,34 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <br/>
 
 </p>
+
+<form id="myForm">
+  <label for="fname">First Name:</label><br />
+  <input type="text" id="fname" name="firstname" required /><br /><br />
+  
+  <label for="lname">Last Name:</label><br />
+  <input type="text" id="lname" name="lastname" required /><br /><br />
+  
+  <label for="email">Email:</label><br />
+  <input type="email" id="email" name="email" required /><br /><br />
+  
+  <input type="submit" value="Submit" />
+</form>
+
+<script>
+  const form = document.getElementById('myForm');
+  form.addEventListener('submit', function(e) {
+    e.preventDefault(); // ndalon dërgimin e formës në server
+    
+    const firstName = document.getElementById('fname').value;
+    const lastName = document.getElementById('lname').value;
+    const email = document.getElementById('email').value;
+    
+    alert(`Hello ${firstName} ${lastName}, your email is ${email}`);
+  });
+</script>
+
+
 
 
 
