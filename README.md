@@ -64,7 +64,17 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 </p>
 
-<form id="myForm">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Simple Form</title>
+</head>
+<body>
+
+<h2>Contact Form</h2>
+
+<form id="contactForm">
   <label for="fname">First Name:</label><br />
   <input type="text" id="fname" name="firstname" required /><br /><br />
   
@@ -78,17 +88,28 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 </form>
 
 <script>
-  const form = document.getElementById('myForm');
-  form.addEventListener('submit', function(e) {
-    e.preventDefault(); // ndalon dërgimin e formës në server
+  document.getElementById('contactForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const firstName = document.getElementById('fname').value.trim();
+    const lastName = document.getElementById('lname').value.trim();
+    const email = document.getElementById('email').value.trim();
+
+    if (!firstName || !lastName || !email) {
+      alert('Please fill in all fields.');
+      return;
+    }
+
+    alert(`Thank you, ${firstName} ${lastName}! We received your email: ${email}`);
     
-    const firstName = document.getElementById('fname').value;
-    const lastName = document.getElementById('lname').value;
-    const email = document.getElementById('email').value;
-    
-    alert(`Hello ${firstName} ${lastName}, your email is ${email}`);
+    // Pas alert, mund ta pastroni formën nëse dëshironi:
+    this.reset();
   });
 </script>
+
+</body>
+</html>
+
 
 
 
