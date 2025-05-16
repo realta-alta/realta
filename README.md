@@ -45,6 +45,30 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
+<style>
+  .social-icons a {
+    margin: 0 10px;
+    display: inline-block;
+  }
+  .social-icons img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s;
+  }
+  .social-icons img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+<div class="social-icons">
+  <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  </a>
+</div>
 
 
 
