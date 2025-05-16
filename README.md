@@ -1,7 +1,7 @@
 
 
 
-<h1>Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 👋</h1>
+<h1>Hi, I'm <span style="color:#e91e63;">Realta </span> 👋</h1>
 <img align="right" src="https://i.pinimg.com/originals/82/0d/43/820d430a62d360cf71c4a46f1d305f9c.gif" width="120"/>
 
 ✨ About Me
