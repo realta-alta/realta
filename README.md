@@ -43,66 +43,7 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>My Social Media</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding-top: 50px;
-      background-color: #f7f7f7;
-    }
-
-    h2 {
-      color: #333;
-      margin-bottom: 20px;
-    }
-
-    .social-icons a {
-      margin: 0 15px;
-      display: inline-block;
-      text-decoration: none;
-    }
-
-    .social-icons img {
-      width: 50px;
-      height: 50px;
-      transition: transform 0.3s ease;
-    }
-
-    .social-icons img:hover {
-      transform: scale(1.2);
-    }
-  </style>
-</head>
-<body>
-
-  <h2>Check out my social media</h2>
-
-  <div class="social-icons">
-    <a href="https://facebook.com/yourprofile" target="_blank">
-      <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
-    </a>
-    <a href="https://instagram.com/yourprofile" target="_blank">
-      <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/yourprofile" target="_blank">
-      <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
-    </a>
-  </div>
-
-</body>
-</html>
-
-
-
-
-
-
+</p
 ---
 
 📊 GitHub Stats
@@ -117,3 +58,5 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <br/>
 
 </p>
+<h3>My GitHub Contribution Activity</h3>
+<iframe src="https://ghchart.rshah.org/realta-alta" frameborder="0" scrolling="no" width="100%" height="200"></iframe>
