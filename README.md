@@ -17,6 +17,14 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 - 📬 Contact: realtakrasniqi009@gmail.com
 
 
+
+  ✨ Fun Facts About Me
+
+- 🎬 I love animated movies and Pixar-style 3D visuals.  
+- ✈️ I dream of working abroad as a creative developer.  
+- 🍫 I function best with coffee and chocolate.
+
+
 ---
 🛠 My Skills Include
 
@@ -58,11 +66,7 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 
 
-✨ Fun Facts About Me
 
-- 🎬 I love animated movies and Pixar-style 3D visuals.  
-- ✈️ I dream of working abroad as a creative developer.  
-- 🍫 I function best with coffee and chocolate.
 
 
 
