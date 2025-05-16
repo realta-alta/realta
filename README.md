@@ -58,5 +58,67 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <br/>
 
 </p>
-<h3>My GitHub Contribution Activity</h3>
-<iframe src="https://ghchart.rshah.org/realta-alta" frameborder="0" scrolling="no" width="100%" height="200"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sign Up</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .signup-form {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      width: 300px;
+    }
+
+    .signup-form h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .signup-form input {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+
+    .signup-form button {
+      width: 100%;
+      padding: 10px;
+      background-color: #2ea44f;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .signup-form button:hover {
+      background-color: #24913c;
+    }
+  </style>
+</head>
+<body>
+
+  <form class="signup-form">
+    <h2>Sign up</h2>
+    <input type="text" placeholder="Username" required />
+    <input type="email" placeholder="Email address" required />
+    <input type="password" placeholder="Password" required />
+    <button type="submit">Sign up</button>
+  </form>
+
+</body>
+</html>
