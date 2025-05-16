@@ -30,18 +30,59 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
  Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <title>Clickable Badge Example</title>
+  <meta charset="UTF-8" />
+  <title>Popup Screenshot</title>
+  <style>
+    #modal {
+      display: none;
+      position: fixed;
+      z-index: 100;
+      left: 0; top: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0,0,0,0.8);
+      justify-content: center;
+      align-items: center;
+    }
+    #modal img {
+      max-width: 80%;
+      max-height: 80%;
+      border: 3px solid white;
+    }
+    #modal.show {
+      display: flex;
+    }
+    #modal:hover {
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body>
 
-<a href="index.html" target="_blank" >
+<a href="#" id="badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
 </a>
+
+<div id="modal">
+  <img src="path/to/screenshot.jpg" alt="Screenshot" />
+</div>
+
+<script>
+  const badge = document.getElementById('badge');
+  const modal = document.getElementById('modal');
+
+  badge.addEventListener('click', function(e) {
+    e.preventDefault();
+    modal.classList.add('show');
+  });
+
+  modal.addEventListener('click', function() {
+    modal.classList.remove('show');
+  });
+</script>
 
 </body>
 </html>
