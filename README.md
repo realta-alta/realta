@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td width="180">
-      
-    </td>
-    <td>
+
 
 
 <h1>Hi, I'm <span style="color:#e91e63;">Realta Krasniqi</span> 👋</h1>
