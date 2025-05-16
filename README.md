@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://github.com/realta-alta/realta/blob/main/FullSizeRender%202.jpeg" width="160" />
+      
     </td>
     <td>
 
