@@ -60,22 +60,10 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 </p>
 
 ## 🚀 These are some of my projects
+✨ A minimalistic task manager built with vanilla JS.
 
-- 🎨## 🌐 Live Projects
 
-- 🎨 **[Live - Portfolio Website]  https://realta-alta.github.io/Personal-Website/
-  A personal portfolio built with HTML, CSS, and JavaScript, showcasing my creative and technical skills.
-  
-- 🕹 **[Mini Game in Unity](https://github.com/realta-alta/unity-mini-game)**  
-  A small 2D game developed in Unity using C#, combining fun gameplay mechanics and engaging visuals.
 
-- 🌐 **[Responsive Web Design Project](https://github.com/realta-alta/responsive-web-project)**  
-  A mobile-friendly website built using HTML, CSS, and JavaScript with clean design and smooth transitions.
 
-- 📊 **[Simple Calculator](https://github.com/realta-alta/simple-calculator)**  
-  A basic web calculator created to strengthen JavaScript logic and user interface design.
-
-- 🎥 **[3D Animation Demo (Blender)](https://github.com/realta-alta/blender-animation-demo)**  
-  An experimental Blender animation that explores camera movements and object rendering.
 
 --
