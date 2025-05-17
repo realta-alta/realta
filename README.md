@@ -61,7 +61,11 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 ## 🚀 These are some of my projects
 
-- 🎨 **[Creative Portfolio Website](https://github.com/realta-alta/portfolio-site)**  
+- 🎨## 🌐 Live Projects
+
+- 🎨 **[Live - Portfolio Website](https://realta-alta.github.io/portfolio-site/)**  
+  A personal portfolio built with HTML, CSS, and JavaScript, showcasing my creative and technical skills.
+
   A personal portfolio built with HTML, CSS, and JavaScript — showcasing creativity and responsiveness.
 
 - 🕹 **[Mini Game in Unity](https://github.com/realta-alta/unity-mini-game)**  
