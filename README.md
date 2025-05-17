@@ -76,5 +76,4 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 - 🎥 **[3D Animation Demo (Blender)](https://github.com/realta-alta/blender-animation-demo)**  
   An experimental Blender animation that explores camera movements and object rendering.
 
----
-
+--
