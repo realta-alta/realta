@@ -63,6 +63,10 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 👾 A mini-game to test your speed and accuracy in color recognition.
   https://realta-alta.github.io/loja-ngjyra/
+  
+  💪 A lightweight web app that helps users calculate their Body Mass Index and understand their fitness category instantly.
+
+  https://realta-alta.github.io/BMI-Calculator/
 
 
 
