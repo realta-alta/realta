@@ -65,5 +65,3 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
 
 
-🎮 A classic 2-player Tic-Tac-Toe game using basic C++ logic and arrays.
-https://realta-alta.github.io/-Tic-Tac-Toe-C-/
