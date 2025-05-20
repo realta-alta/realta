@@ -60,8 +60,6 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 </p>
 
 ## 🚀 These are some of my projects
-✨ A minimalistic task manager built with vanilla JS. 
-  https://realta-alta.github.io/To-Do-List---App/
 
 👾 A mini-game to test your speed and accuracy in color recognition.
   https://realta-alta.github.io/loja-ngjyra/
