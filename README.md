@@ -80,6 +80,17 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   https://realta-alta.github.io/Animated-Shapes-/
 
 
+
+ 🚀 Some of My Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🎮 **Color Match Game** | A mini-game to test your speed and accuracy in color recognition. | [Play it here](https://realta-alta.github.io/loja-ngjyra/) |
+| 💪 **BMI Calculator** | A lightweight app to calculate Body Mass Index and show fitness category instantly. | [Try it here](https://realta-alta.github.io/BMI-Calculator/) |
+| 🤖 **Simple Chat Bot** | A fun JavaScript web chat bot that replies to basic prompts. | [Talk to the bot](https://realta-alta.github.io/simple-chatbot/) |
+| 🎨 **Animated Shapes** | Colorful bouncing shapes using JavaScript Canvas. Click to add more! | [See it live](https://realta-alta.github.io/Animated-Shapes-/) |
+
+
  
 
 
