@@ -53,7 +53,7 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://github-readme-stats.vercel.app/api?username=realta-alta&show_icons=true&theme=radical" />
 </p>
 
- Most Used Languages
+ 📚 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realta-alta&layout=compact&theme=radical" />
