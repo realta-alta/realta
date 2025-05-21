@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=E91E63&center=true&width=435&lines=Welcome+to+my+GitHub!;Creative+Developer+%E2%9C%A8;Loves+Web+%26+Visuals+%F0%9F%8E%A8;Coffee+%2B+Code+%3D+Me+%E2%98%95%EF%B8%8F" />
+</p>
 
 
 
