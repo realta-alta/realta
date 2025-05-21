@@ -59,27 +59,6 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realta-alta&layout=compact&theme=radical" />
 </p>
 
-## 🚀 These are some of my projects
-
-👾 A mini-game to test your speed and accuracy in color recognition.
-  
-  https://realta-alta.github.io/loja-ngjyra/
-  
-  💪 A lightweight web app that helps users calculate their Body Mass Index and understand their fitness category instantly.
-
-  https://realta-alta.github.io/BMI-Calculator/
-
- 🤖 A fun and simple web chat bot that answers basic questions using JavaScript. Great project for learning how to build interactive web apps!
-
- https://realta-alta.github.io/simple-chatbot/
-
-
- 🎨🟣 A colorful and interactive canvas animation built with JavaScript, featuring bouncing shapes and click-to-add functionality. 
-
-  
-  https://realta-alta.github.io/Animated-Shapes-/
-
-
 
  🚀 Some of My Projects
 
