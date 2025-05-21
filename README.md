@@ -71,7 +71,7 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 
  🤖 A fun and simple web chat bot that answers basic questions using JavaScript. Great project for learning how to build interactive web apps!
 
-   https://realta-alta.github.io/simple-chatbot/
+
  
 
 
