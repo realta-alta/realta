@@ -73,7 +73,6 @@ I'm a Computer Science and Engineering graduate, specialized in Computer Graphic
 | 🤖 **Simple Chat Bot** | A fun JavaScript web chat bot that replies to basic prompts. | [Talk to the bot](https://realta-alta.github.io/simple-chatbot/) |
 | 🎨 **Animated Shapes** | Colorful bouncing shapes using JavaScript Canvas. Click to add more! | [See it live](https://realta-alta.github.io/Animated-Shapes-/) |
 
-https://realta-alta.github.io/Educational-Management-Systemm/ 
  
 
 
